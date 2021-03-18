@@ -1,0 +1,8 @@
+Score             Name
+------------------------------
+0              []
+0              Imonmion Emmanuel
+0              ['[]', 'Imonmion Emmanuel']
+30             Emmanuel\
+0              ['[]', 'Imonmion Emmanuel', "['[]', 'Imonmion Emmanuel']", 'Emmanuel\\']
+0              Imonmion Emmanuek
